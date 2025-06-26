@@ -2,8 +2,8 @@
     "name": "le pripri",
     "short_name": "le pripri",
     "icons": [{
-        "src": "",
-        "sizes": "192x192",
+        "src": "icons/page-256.png",
+        "sizes": "256x256",
         "type": "image/png"
         }],
     "start_url": "https://lepripri.github.io/home",

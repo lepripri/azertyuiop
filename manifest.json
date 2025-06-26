@@ -8,5 +8,6 @@
         }],
     "start_url": "https://lepripri.github.io/home",
     "display": "standalone",
-    "gcm_sender_id": "edzrety/ezrtyuy/dertdyisfdhkj/dsfhkljkmydtsr"
+    "gcm_sender_id": "edzrety/ezrtyuy/dertdyisfdhkj/dsfhkljkmydtsr",
+    "background_color": "light-dark(#fab2e1, black)"
 }

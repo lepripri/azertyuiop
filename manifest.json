@@ -13,5 +13,11 @@
     "categories": ["utilities", "kids", "productivity", "entertainment", "navigation", "personalization"],
     "description": "un site remplis d'outils",
     "orientation": "landscape-primary",
-    "scope": "https://lepripri.github.io/home"
+    "scope": "https://lepripri.github.io/home",
+    "shortcuts": [
+        {
+            "name": "le pripri...",
+            "url": "https://lepripri.github.io/home"
+        }
+    ]
 }

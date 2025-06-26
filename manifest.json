@@ -10,5 +10,8 @@
     "display": "standalone",
     "gcm_sender_id": "edzrety/ezrtyuy/dertdyisfdhkj/dsfhkljkmydtsr",
     "background_color": "#fab2e1",
-    "categories": ["utilities", "kids", "productivity", "entertainment", "navigation", "personalization"]
+    "categories": ["utilities", "kids", "productivity", "entertainment", "navigation", "personalization"],
+    "description": "un site remplis d'outils",
+    "orientation": "landscape-primary",
+    "scope": "https://lepripri.github.io/home"
 }

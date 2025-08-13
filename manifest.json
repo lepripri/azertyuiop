@@ -13,7 +13,6 @@
     "background_color": "#fab2e1",
     "categories": ["utilities", "kids", "productivity", "entertainment", "navigation", "personalization"],
     "description": "un site remplis d'outils",
-    "orientation": "landscape-primary",
     "scope": "/",
     "related_applications": [
       {

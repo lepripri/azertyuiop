@@ -12,12 +12,5 @@
     "gcm_sender_id": "edzrety/ezrtyuy/dertdyisfdhkj/dsfhkljkmydtsr",
     "background_color": "#fab2e1",
     "categories": ["utilities", "kids", "productivity", "entertainment", "navigation", "personalization"],
-    "description": "un site remplis d'outils",
-    "scope": "/",
-    "related_applications": [
-      {
-        "platform": "web",
-        "url": "https://lepripri.github.io/code"
-      }
-    ]
+    "description": "un site remplis d'outils"
 }
